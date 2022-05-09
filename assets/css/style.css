@@ -1,0 +1,23 @@
+header {
+	background: #cbe2c1;
+    height: 50px;
+}
+
+.nav {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.primary-nav {
+    font-size: 14px;
+	font-weight: 400;
+	letter-spacing: .5px;
+	text-transform: uppercase;
+}
+nav > a {
+    margin: 5px 20px;
+}
+
+.main {
+    width: 60%;
+}
